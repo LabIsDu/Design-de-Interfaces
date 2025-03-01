@@ -33,7 +33,7 @@ O protótipo foi desenvolvido utilizando o **Figma**, com foco em usabilidade, a
 | **Acesso ao Treino 02** | ![Acesso ao treino 02](https://github.com/user-attachments/assets/7e7351ce-dda7-4563-b94b-2d0c62111158)| **Exercícios**          | ![Exercícios](https://github.com/user-attachments/assets/5c823a5b-0e83-453d-a424-eeb524f88c80)        |
 
 ## Autor
-- **Adão Eduardo Gomes de Oliveira**  
+- **Eduardo Oliveira**  
   - **GitHub**: [LabIsDu](https://github.com/LabIsDu)   
   - **Email**: [eduardo.gomes@aluno.ufca.edu.br](#)  
 
