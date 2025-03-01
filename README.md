@@ -32,6 +32,16 @@ O protótipo foi desenvolvido utilizando o **Figma**, com foco em usabilidade, a
 | **Treinos**             | ![Treinos](https://github.com/user-attachments/assets/b925e32c-58f8-4958-a7b9-f36ce63e7f9c)           | **Acesso ao Treino**    | ![Acesso ao treino](https://github.com/user-attachments/assets/029cda7a-2d53-407c-b1df-3a59c097efd2)  |
 | **Acesso ao Treino 02** | ![Acesso ao treino 02](https://github.com/user-attachments/assets/7e7351ce-dda7-4563-b94b-2d0c62111158)| **Exercícios**          | ![Exercícios](https://github.com/user-attachments/assets/5c823a5b-0e83-453d-a424-eeb524f88c80)        |
 
+## Autor
+- **Adão Eduardo Gomes de Oliveira**  
+  - **GitHub**: [LabIsDu](https://github.com/LabIsDu)   
+  - **Email**: [eduardo.gomes@aluno.ufca.edu.br](#)  
+
+---
+
+## Links Úteis
+- **Documentação do Projeto**: [Acesse a documentação completa aqui](https://docs.google.com/document/d/1uY6pbh9GVKReHfBgVbWhcCwGxQvT7VZroq4o2SFmBvc/edit?usp=sharing)  
+- **Protótipo no Figma**: [Acesse o protótipo interativo aqui](https://www.figma.com/design/xsv9Vbte6L304rknvwPsx4/Design-de-Interfaces?node-id=0-1&t=mr7MBuEfKu1kcYGG-1)  
 
 
 
