@@ -41,7 +41,8 @@ O protótipo foi desenvolvido utilizando o **Figma**, com foco em usabilidade, a
 
 ## Links Úteis
 - **Documentação do Projeto**: [Acesse a documentação completa aqui](https://docs.google.com/document/d/1uY6pbh9GVKReHfBgVbWhcCwGxQvT7VZroq4o2SFmBvc/edit?usp=sharing)  
-- **Protótipo no Figma**: [Acesse o protótipo interativo aqui](https://www.figma.com/design/xsv9Vbte6L304rknvwPsx4/Design-de-Interfaces?node-id=0-1&t=mr7MBuEfKu1kcYGG-1)  
+- **Protótipo no Figma**: [Acesse o protótipo interativo aqui](https://www.figma.com/design/xsv9Vbte6L304rknvwPsx4/Design-de-Interfaces?node-id=0-1&t=mr7MBuEfKu1kcYGG-1)
+- **Vídeo explicativo**: [Acesse o vídeo com a explicação do mvp aqui](https://drive.google.com/file/d/1gy-6tKdeNOiJmXyh6Qne7oyE-r4ble5M/view?usp=sharing)  
 
 
 
